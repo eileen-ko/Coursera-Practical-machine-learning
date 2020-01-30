@@ -2,10 +2,11 @@
 title: "Practical Machine Learning course project"
 author: "Yiqun HUANG"
 date: "1/10/2020"
-output: 
-  html_document: default
+output:
+  html_document:
+    keep_md: true
   pdf_document: default
-keep_md: yes
+
 ---
 ###Summary
 This report is the writeup of Practical Machine Learning course project. The main goal of this project is fitting models to predict the manner that 6 participants performed in the dataset. 
